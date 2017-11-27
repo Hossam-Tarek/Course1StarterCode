@@ -1,17 +1,17 @@
 package module1;
 
-import processing.core.PApplet;
 import de.fhpotsdam.unfolding.UnfoldingMap;
 import de.fhpotsdam.unfolding.geo.Location;
 import de.fhpotsdam.unfolding.providers.AbstractMapProvider;
-import de.fhpotsdam.unfolding.providers.Google;
 import de.fhpotsdam.unfolding.providers.MBTilesMapProvider;
+import de.fhpotsdam.unfolding.providers.Microsoft;
 import de.fhpotsdam.unfolding.utils.MapUtils;
+import processing.core.PApplet;
 
 /** HelloWorld
   * An application with two maps side-by-side zoomed in on different locations.
   * Author: UC San Diego Coursera Intermediate Programming team
-  * @author Your name here
+  * @author Hossam Tarek Eliwa
   * Date: July 17, 2015
   * */
 public class HelloWorld extends PApplet
@@ -30,10 +30,10 @@ public class HelloWorld extends PApplet
 	private static final boolean offline = false;
 	
 	/** The map we use to display our home town: La Jolla, CA */
-	UnfoldingMap map1;
+	private UnfoldingMap map1;
 	
 	/** The map you will use to display your home town */ 
-	UnfoldingMap map2;
+	private UnfoldingMap map2;
 
 	public void setup() {
 		size(800, 600, P2D);  // Set up the Applet window to be 800x600
@@ -46,7 +46,7 @@ public class HelloWorld extends PApplet
 		this.background(200, 200, 200);
 		
 		// Select a map provider
-		AbstractMapProvider provider = new Google.GoogleTerrainProvider();
+		AbstractMapProvider provider = new Microsoft.RoadProvider();
 		// Set a zoom level
 		int zoomLevel = 10;
 		
@@ -65,26 +65,36 @@ public class HelloWorld extends PApplet
 		// The 6th argument specifies the map provider.  
 		// There are several providers built-in.
 		// Note if you are working offline you must use the MBTilesMapProvider
-		map1 = new UnfoldingMap(this, 50, 50, 350, 500, provider);
+		map1 = new UnfoldingMap(this, 25, 50, 350, 500, provider);
+
+		// Create another Unfolding map to be displayed in this window.
+        // 2nd arg: Starter x-axis location of the second map
+        // 3rd arg: Starter y-axis location of the second map
+        // 4th arg: Map width
+        // 5th arg: Map height
+		map2 = new UnfoldingMap(this, 425, 50, 350, 500, provider);
 
 		// The next line zooms in and centers the map at 
 	    // 32.9 (latitude) and -117.2 (longitude)
 	    map1.zoomAndPanTo(zoomLevel, new Location(32.9f, -117.2f));
+
+	    // Zooms in and centers the map at
+        // 1st arg (latitude) and 2nd arg (longitude)
+        map2.zoomAndPanTo(zoomLevel, new Location(32.9f, -117.2f));
 		
 		// This line makes the map interactive
 		MapUtils.createDefaultEventDispatcher(this, map1);
-		
-		// TODO: Add code here that creates map2 
-		// Then you'll modify draw() below
 
+		// This line makes the map interactive
+        MapUtils.createDefaultEventDispatcher(this, map2);
 	}
 
 	/** Draw the Applet window.  */
 	public void draw() {
-		// So far we only draw map1...
-		// TODO: Add code so that both maps are displayed
+		// Draw map 1
 		map1.draw();
-	}
 
-	
+		// Draw map 2
+        map2.draw();
+	}
 }

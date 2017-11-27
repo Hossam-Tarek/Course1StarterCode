@@ -2,84 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58eb1907-f741-4110-b516-64702cbd31bc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/2.5_week.atom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/LifeExpectancyWorldBank.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/LifeExpectancyWorldBankModule3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/airports.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/blankDark-1-3.mbtiles" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/blankLight-1-3.mbtiles" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/city-data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/countries.geo.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/palmTrees.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/quiz1.atom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/quiz2.atom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/routes.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/sortAndPrint.test2.out.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/test1.atom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/test1.out.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/test2.atom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/data/test2.out.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/core.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-amd64.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-armv6hf.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-i586.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/gluegen-rt-natives-macosx-universal.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/gluegen-rt-natives-windows-amd64.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/gluegen-rt-natives-windows-i586.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/gluegen-rt.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-amd64.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-armv6hf.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-i586.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/jogl-all-natives-macosx-universal.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/jogl-all-natives-windows-amd64.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/jogl-all-natives-windows-i586.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/jogl-all.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/json4processing.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/libTUIO.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/log4j-1.2.15.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/sqlite-jdbc-3.7.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/lib/unfolding.0.9.7-uscd.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/HelloUCSDWorld.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/OfflineMapApp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/Airport.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/EarthquakeCityMapDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/LifeExpectancy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/LocationTester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/MyDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/MyPApplet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/SearchAndSort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/SimpleLocation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/demos/Student.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module1/HelloWorld.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module3/EarthquakeCityMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module4/CityMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module4/EarthquakeCityMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module4/EarthquakeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module4/LandQuakeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module4/OceanQuakeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module5/CityMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module5/CommonMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module5/EarthquakeCityMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module5/EarthquakeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module5/LandQuakeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module5/OceanQuakeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module6/AirportMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module6/AirportMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module6/CityMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module6/CommonMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module6/EarthquakeCityMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module6/EarthquakeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module6/LandQuakeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module6/LifeExpectancy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/module6/OceanQuakeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UCSDUnfoldingMaps/src/parsing/ParseFeed.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/module1/HelloWorld.java" afterPath="$PROJECT_DIR$/src/module1/HelloWorld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,14 +12,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/module1/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="161">
+              <caret line="82" column="58" lean-forward="false" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,6 +37,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/module1/HelloWorld.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -124,12 +59,19 @@
           <State>
             <id />
           </State>
-        </expanded-state>
-        <selected-state>
           <State>
-            <id>Android</id>
+            <id>Android &gt; Lint &gt; Correctness</id>
           </State>
-        </selected-state>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
       </profile-state>
     </entry>
   </component>
@@ -180,7 +122,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -313,12 +255,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511767031324</updated>
-      <workItem from="1511767036459" duration="124000" />
+      <workItem from="1511767036459" duration="3950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124000" />
+    <option name="totallyTimeSpent" value="3950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="0" width="1314" height="768" extended-state="6" />
@@ -333,7 +275,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -366,9 +308,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/module1/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="161">
+          <caret line="82" column="58" lean-forward="false" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
