@@ -17,7 +17,7 @@ public class MyPApplet extends PApplet{
 	public void setup() {
 		//Add setup code for MyPApplet
 		size(400,400);				//set canvas size
-		background(255);			//set canvas color
+		background(200);			//set canvas color
 		stroke(0);				//set pen color
 		img = loadImage("palmTrees.jpg", "jpg");
 	}
@@ -47,11 +47,6 @@ public class MyPApplet extends PApplet{
 		
 		//System.out.println("R" + rgb[0] + " G" + rgb[1] + " B" + rgb[2]);
 		return rgb;
-	}	
-	
-	public static void main (String[] args) {
-		//Add main method for running as application
-		PApplet.main(new String[] {"--present", "MyPApplet"});
 	}
 }
 
